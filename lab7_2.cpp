@@ -30,11 +30,10 @@ int main()
     cout << "Fahsai: " << day << "....that is OK!!! I'm looking forward to watching " << movie <<  " with you.\n";
     cout << name << ": ";
     getline(cin, line);
-    cout << "Fahsai: 555+ see you Next Monday. Bye Bye \\(^ ^)/";
+    cout << "Fahsai: 555+ see you " << day << ". Bye Bye \\(^ ^)/";
 
     return 0;
 }
-
 
 //Dialog of the first example is given below.
 
